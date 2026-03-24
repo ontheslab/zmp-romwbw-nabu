@@ -9,6 +9,11 @@
 ;	Written by -
 ;	  Phil Summers, Wayne Warthen
 ;
+;	  Note:
+;	    Adjusted for the NABU RomWBW build, including automatic
+;	    HBIOS serial-unit selection and standalone local building.
+;	    (c) Intangybles 2026
+;
 ;	ROMWBW/NABU version using HBIOS and https://github.com/mecparts/zmp
 ;	version of zmodem
 ;
@@ -871,4 +876,5 @@ toobig:	jp	errval		; Overlay too large!
 
 	end
 
+
 
