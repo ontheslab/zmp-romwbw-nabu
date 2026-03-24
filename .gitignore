@@ -1,0 +1,6 @@
+zmo-nabu.hex
+zmo-nabu.lst
+*.md
+!README.md
+Notes.txt
+Release/
